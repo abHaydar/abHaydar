@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abbes Haydar</h1>
-<h3 align="center">A Python/Odoo Developer</h3>
-<img align="right" alt="" width="400" src="" >
+<h1 align="left">Hi 👋, I'm Abbes Haydar</h1>
+<h3 align="left">A Python/Odoo Developer</h3>
 - 🔭 I’m currently working on **Web Based Projects.**
 
 - 🌱 I’m currently learning **Python,Symfony**
