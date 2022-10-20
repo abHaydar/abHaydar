@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Odoo,Vb.net**
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/abhaydar/">Linkedin</a>**
+<!-- 📫 How to reach me **<a href="https://www.linkedin.com/in/abhaydar/">Linkedin</a>**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
